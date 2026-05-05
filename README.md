@@ -1,4 +1,5 @@
-# College Compass
+# College Platform
+
 
 Production-grade MVP slice for college discovery and decision-making.
 
