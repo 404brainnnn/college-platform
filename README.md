@@ -51,3 +51,5 @@ Open `http://localhost:5173`.
 - Backend: Render can use `render.yaml`. Add `FRONTEND_URL` after deploying the frontend.
 - Frontend: Deploy `frontend/` to Vercel and set `VITE_API_URL` to the deployed backend URL.
 - Database seed on production: run `npm run db:seed` once from the backend shell after migrations.
+## 🌐 Live Demo
+npx plugins add vercel/vercel-plugin
